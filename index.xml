@@ -14,10 +14,6 @@
         <Creative id="0833df9c12704e8bbe376bb0d0598def">
           <Linear>
             <Duration>00:00:33</Duration>
-            
-            <InteractiveCreativeFile type="text/html" apiFramework="SIMID">
-              <![CDATA[ https://raiyan-nova.github.io/smid_demo/interactive.html ]]>
-            </InteractiveCreativeFile>
             <TrackingEvents>
               <Tracking event="start"><![CDATA[ https://polarcdn-pentos.com/wt?c=0833df9c12704e8bbe376bb0d0598def&pevt=st&t=v ]]></Tracking>
               <Tracking event="firstQuartile"><![CDATA[ https://polarcdn-pentos.com/wt?c=0833df9c12704e8bbe376bb0d0598def&mvq=25&t=vq ]]></Tracking>
@@ -32,6 +28,9 @@
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="5850">
                 <![CDATA[ https://polarcdn-static.com/r2/polar-videomanager-assets-prod/video-f3ed69e1646c47b5a49011dbd0772c9c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Expires=302400&X-Amz-Credential=adedc426a9e92073f2124a91d5cc415f%2F20260325%2Fenam%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Date=20260325T064527Z&X-Amz-Signature=cd0a8323c25c3325d48ebc5d8f1cbc6ed221deb642a480cb500ce43235f56528 ]]>
               </MediaFile>
+              <InteractiveCreativeFile type="text/html" apiFramework="SIMID">
+              <![CDATA[ https://raiyan-nova.github.io/smid_demo/interactive.html ]]>
+            </InteractiveCreativeFile>
               </MediaFiles>
           </Linear>
         </Creative>
